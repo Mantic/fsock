@@ -2,16 +2,14 @@
 
 ## Installation ##
 
-`go get github.com/cgrates/fsock`
-
-## Support ##
-Join [CGRateS](http://www.cgrates.org/ "CGRateS Website") on Google Groups [here](https://groups.google.com/forum/#!forum/cgrates "CGRateS on GoogleGroups").
+`go get github.com/Mantic/fsock`
 
 ## License ##
 fsock.go is released under the [MIT License](http://www.opensource.org/licenses/mit-license.php "MIT License").
 Copyright (C) ITsysCOM GmbH. All Rights Reserved.
 
 ## Sample usage code ##
+*UNDER RECONSTRUCTION!*
 ```
 package main
 
@@ -71,5 +69,5 @@ func main() {
 }
 ```
 
-[![Build Status](https://secure.travis-ci.org/cgrates/fsock.png)](http://travis-ci.org/cgrates/fsock)
+[![Build Status](https://secure.travis-ci.org/cgrates/fsock.png)](http://travis-ci.org/Mantic/fsock)
 
